@@ -6,9 +6,9 @@ namespace reverse_array01
     {
         static void Main(string[] args)
         {
-            int[] givenArray = new int[] { 3, 2, 1 };
+            int[] testArray = new int[] { 3, 2, 1 };
 
-            ReverseArray(givenArray);
+            ReverseArray(testArray);
 
         }
 

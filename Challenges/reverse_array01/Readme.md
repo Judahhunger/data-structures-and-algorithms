@@ -6,4 +6,4 @@ Reverse_Arrayz is a method that takes in an array of numbers and iterates throug
  - Output 8,4,2,9 if the given array is 9,2,4,8.
 
 ## Solution
-![Reverse Array whiteboard image](../../assets/reverse_array.PNG)
+![Reverse Array whiteboard image](../../assets/reverse_array.jpg)

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Codefellows\\401\\week-1\\data-structures-and-algorithms\\data-structures-and-algorithms\\Challenges\\array_reverse\\array_reverse\\array_reverse.csproj",
-      "projectName": "array_reverse",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Codefellows\\401\\week-1\\data-structures-and-algorithms\\data-structures-and-algorithms\\Challenges\\array_reverse\\array_reverse\\array_reverse.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Codefellows\\401\\data-structures-and-algorithms\\Challenges\\reverse_array01\\reverse_array01\\reverse_array01.csproj",
+      "projectName": "reverse_array01",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Codefellows\\401\\data-structures-and-algorithms\\Challenges\\reverse_array01\\reverse_array01\\reverse_array01.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Codefellows\\401\\week-1\\data-structures-and-algorithms\\data-structures-and-algorithms\\Challenges\\array_reverse\\array_reverse\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Codefellows\\401\\data-structures-and-algorithms\\Challenges\\reverse_array01\\reverse_array01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

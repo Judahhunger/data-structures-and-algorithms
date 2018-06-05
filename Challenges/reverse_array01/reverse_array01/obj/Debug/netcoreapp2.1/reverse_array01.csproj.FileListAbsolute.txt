@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\reverse_array01\reverse_array01\bin\Debug\netcoreapp2.1\reverse_array01.deps.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\reverse_array01\reverse_array01\bin\Debug\netcoreapp2.1\reverse_array01.runtimeconfig.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\reverse_array01\reverse_array01\bin\Debug\netcoreapp2.1\reverse_array01.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\reverse_array01\reverse_array01\bin\Debug\netcoreapp2.1\reverse_array01.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\reverse_array01\reverse_array01\bin\Debug\netcoreapp2.1\reverse_array01.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\reverse_array01\reverse_array01\obj\Debug\netcoreapp2.1\reverse_array01.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\reverse_array01\reverse_array01\obj\Debug\netcoreapp2.1\reverse_array01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\reverse_array01\reverse_array01\obj\Debug\netcoreapp2.1\reverse_array01.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\reverse_array01\reverse_array01\obj\Debug\netcoreapp2.1\reverse_array01.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\reverse_array01\reverse_array01\obj\Debug\netcoreapp2.1\reverse_array01.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\reverse_array01\reverse_array01\obj\Debug\netcoreapp2.1\reverse_array01.pdb

@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\obj\Debug\netcoreapp2.1\XUnitTestArray_Binary_Search.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\obj\Debug\netcoreapp2.1\XUnitTestArray_Binary_Search.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\obj\Debug\netcoreapp2.1\XUnitTestArray_Binary_Search.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\obj\Debug\netcoreapp2.1\XUnitTestArray_Binary_Search.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\bin\Debug\netcoreapp2.1\XUnitTestArray_Binary_Search.deps.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\bin\Debug\netcoreapp2.1\XUnitTestArray_Binary_Search.runtimeconfig.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\bin\Debug\netcoreapp2.1\XUnitTestArray_Binary_Search.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\bin\Debug\netcoreapp2.1\XUnitTestArray_Binary_Search.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\bin\Debug\netcoreapp2.1\XUnitTestArray_Binary_Search.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\bin\Debug\netcoreapp2.1\array_binary_search.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\bin\Debug\netcoreapp2.1\array_binary_search.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\obj\Debug\netcoreapp2.1\XUnitTestArray_Binary_Search.csproj.CopyComplete
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\obj\Debug\netcoreapp2.1\XUnitTestArray_Binary_Search.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\array_binary_search\XUnitTestArray_Binary_Search\obj\Debug\netcoreapp2.1\XUnitTestArray_Binary_Search.pdb

@@ -2,9 +2,9 @@
 
 namespace array_binary_search
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+       public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
             int[] myArray = new int[] { 3, 5, 8, 13, 27, 45 };

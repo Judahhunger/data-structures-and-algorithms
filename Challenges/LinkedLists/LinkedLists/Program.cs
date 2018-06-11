@@ -12,7 +12,7 @@ namespace LinkedLists
 
         static void TestLL()
         {
-            LinkList ll = new LinkList(new Node(10));
+            LinkLists ll = new LinkLists(new Node(10));
 
         }
 

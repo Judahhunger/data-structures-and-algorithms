@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\obj\Debug\netcoreapp2.1\XUnitTestLinkList.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\obj\Debug\netcoreapp2.1\XUnitTestLinkList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\obj\Debug\netcoreapp2.1\XUnitTestLinkList.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\obj\Debug\netcoreapp2.1\XUnitTestLinkList.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\bin\Debug\netcoreapp2.1\XUnitTestLinkList.deps.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\bin\Debug\netcoreapp2.1\XUnitTestLinkList.runtimeconfig.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\bin\Debug\netcoreapp2.1\XUnitTestLinkList.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\bin\Debug\netcoreapp2.1\XUnitTestLinkList.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\bin\Debug\netcoreapp2.1\XUnitTestLinkList.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\bin\Debug\netcoreapp2.1\LinkedLists.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\bin\Debug\netcoreapp2.1\LinkedLists.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\obj\Debug\netcoreapp2.1\XUnitTestLinkList.csproj.CopyComplete
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\obj\Debug\netcoreapp2.1\XUnitTestLinkList.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\XUnitTestLinkList\obj\Debug\netcoreapp2.1\XUnitTestLinkList.pdb

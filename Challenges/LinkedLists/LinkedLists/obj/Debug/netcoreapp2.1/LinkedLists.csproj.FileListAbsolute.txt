@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\LinkedLists\obj\Debug\netcoreapp2.1\LinkedLists.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\LinkedLists\obj\Debug\netcoreapp2.1\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\LinkedLists\obj\Debug\netcoreapp2.1\LinkedLists.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\LinkedLists\obj\Debug\netcoreapp2.1\LinkedLists.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\LinkedLists\bin\Debug\netcoreapp2.1\LinkedLists.deps.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\LinkedLists\bin\Debug\netcoreapp2.1\LinkedLists.runtimeconfig.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\LinkedLists\bin\Debug\netcoreapp2.1\LinkedLists.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\LinkedLists\bin\Debug\netcoreapp2.1\LinkedLists.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\LinkedLists\bin\Debug\netcoreapp2.1\LinkedLists.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\LinkedLists\obj\Debug\netcoreapp2.1\LinkedLists.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\LinkedLists\LinkedLists\obj\Debug\netcoreapp2.1\LinkedLists.pdb

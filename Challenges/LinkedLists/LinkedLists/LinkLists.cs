@@ -49,9 +49,10 @@ namespace LinkedLists
                     Current.Next = newNode;
                     return;
                 }
+                Current = Current.Next;
             }
 
-            Current = Current.Next; 
+            
         }
 
         /// <summary>

@@ -15,15 +15,25 @@ namespace LinkedLists
             Head = node;
             Current = node;
         }
-
-        public void Add(Node node)
+        /// <summary>
+        /// find starting node(head) then make new node point to starting node
+        /// then make new node the head.
+        /// </summary>
+        /// <param Node="node"></param>
+        public void Add(Node node)//tested //
         {
             node.Next = Head;
             Head = node;
             Current = node;
         }
-
-        public void AddBefore(Node newNode, Node existingNode)
+        /// <summary>
+        /// finds node that points to the node before insertion.
+        /// new node then points to the node before insertion.
+        /// the node before insertion now points to new node.
+        /// </summary>
+        /// <param name="newNode"></param>
+        /// <param name="existingNode"></param>
+        public void AddBefore(Node newNode, Node existingNode)//tested
         {
             Current = Head;
             if (Head.Value == existingNode.Value)
@@ -44,16 +54,23 @@ namespace LinkedLists
             Current = Current.Next; 
         }
 
-        /*public void AddAfter(Node newNode, Node existingNode)
-        {
+        /// <summary>
+        /// Find existing nodes value and make the current
+        /// Change new nodes next from null to existing node next.
+        /// Change existing nodes next to the new node.
+        /// </summary>
+        /// <param Node="newNode"></param>
+        /// <param Node="existingNode"></param>
+        public void AddAfter(Node newNode, Node existingNode)//tested
+        {  
             Current = Head;
-            while (true)
-            {
+            Current = Find(existingNode.Value);
+           
+                    newNode.Next = Current.Next;
+                    existingNode.Next = newNode;
+        }
 
-            }
-        }*/
-
-        public void AddLast(Node newNode)
+        public void AddLast(Node newNode)//when current node next is null make that nodes next equal node to add.
         {
             Current = Head;
 
@@ -64,7 +81,13 @@ namespace LinkedLists
             Current.Next = newNode;
         }
 
-        public Node Find(int value)
+       /// <summary>
+       /// Go through link list to find node with value that is input
+       /// if found return that node, if not return null
+       /// </summary>
+       /// <param number="value"></param>
+       /// <returns></returns>
+        public Node Find(int value)//tested to find, and to find null if does not exsist.
         {
             Current = Head;
 
@@ -90,5 +113,6 @@ namespace LinkedLists
             }
             Console.Write($"{Current.Value}---> null");
         }
+
     }
 }

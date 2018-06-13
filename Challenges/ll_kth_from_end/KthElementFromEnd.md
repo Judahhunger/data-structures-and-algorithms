@@ -21,3 +21,4 @@
 - [x] Leave a description of how long this assignment took you in the comments box
 - [x] Add any additional comments you like about your process or any difficulties you may have had with the assignment
 - [x] Merge your branch into master, and delete your branch (don't worry, the PR link will still work)```
+![Reverse Array whiteboard image](../../assets/KthElementInLLScreen.png)

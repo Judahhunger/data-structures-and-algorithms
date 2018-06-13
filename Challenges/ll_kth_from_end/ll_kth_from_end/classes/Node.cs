@@ -7,7 +7,7 @@ namespace ll_kth_from_end.classes
     public class Node
     {
 
-        public string ThisSays { get; set; }
+        public string ThisSays { get; set; } = "This";
 
         public int Value { get; set; }
 

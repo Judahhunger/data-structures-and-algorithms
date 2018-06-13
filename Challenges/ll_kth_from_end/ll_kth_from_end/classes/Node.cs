@@ -6,6 +6,7 @@ namespace ll_kth_from_end.classes
 {
     public class Node
     {
+
         public string ThisSays { get; set; }
 
         public int Value { get; set; }
@@ -15,7 +16,7 @@ namespace ll_kth_from_end.classes
         public Node(int value)
         {
             Value = value;
-
+            
         }
     }
 }

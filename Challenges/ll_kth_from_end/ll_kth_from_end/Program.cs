@@ -7,18 +7,29 @@ namespace ll_kth_from_end
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            ImplementLinkListSandwitch();
+            Console.WriteLine("app is running");
+            ImplementLinkListSandwitch().Print();
+            KthElementInLL(0);
+            KthElementInLL(1);
+            KthElementInLL(2);
+            KthElementInLL(3);
+            KthElementInLL(4);
+
+            KthElementInLL(5);
+            KthElementInLL(-2);
+            Console.ReadLine();
         }
 
-        static void ImplementLinkListSandwitch()
+        static LinkList ImplementLinkListSandwitch()
         {
             //Make nodes to put into linklist
-            Node peanutButter = new Node(3);
+            Node peanutButter = new Node(2);
             peanutButter.ThisSays = "peanut butter";
 
-            Node jelly = new Node(2);
-            jelly.ThisSays = " jelly";
+            Node jelly = new Node(3)
+            {
+                ThisSays = " jelly"
+            };
 
             Node topSliceOfBread = new Node(1);
             topSliceOfBread.ThisSays = "It's ";
@@ -42,10 +53,15 @@ namespace ll_kth_from_end
 
             myLinkList.AddLast(cutOffCrust);//last cut off crust
 
-            myLinkList.Print();
-            Console.ReadLine();
-        }
+            return myLinkList;
+        }//retruns LinkList in shape of sandwitch.
 
-        static void 
+        static void KthElementInLL(int value)
+        {
+           string FindKthElement = ImplementLinkListSandwitch().KthElement(value);
+
+            Console.WriteLine(FindKthElement);
+        }
+        
     }
 }

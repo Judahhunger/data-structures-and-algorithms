@@ -9,6 +9,8 @@ namespace ll_kth_from_end.classes
     {
         public Node Head { get; set; }
 
+        public Node Runner { get; set; }
+
         public Node Current { get; set; }
 
         public LinkList(Node node)
@@ -110,12 +112,34 @@ namespace ll_kth_from_end.classes
 
             while (Current.Next != null)
             {
-                Console.Write($"{Current.Value}-{Current.ThisSays}-->");
+                Console.WriteLine($"{Current.Value}-{Current.ThisSays}-->");
                 Current = Current.Next;
             }
-            Console.Write($"{Current.Value}-{Current.ThisSays}--> null");
+            Console.WriteLine($"{Current.Value}-{Current.ThisSays}--> null");
         }
 
+        public string KthElement(int k)
+        {
+            if (k < 0)
+            {
+                return "Please enter a positive number";
+            }
+            Current = Head;
+            Runner = Head;
+            int counter = 0;
+
+            while (Runner.Next != null)
+            {
+                if (counter >= k)
+                {
+                    Current = Current.Next;
+                }
+                counter++;
+                Runner = Runner.Next;
+            }
+            counter++;//To Make sure if input number is one over range it'll output correctly.
+            return (k - counter < 0) ? $"{Current.ThisSays} node is {Current.Value}" : "Not enough nodes in List for input";
+        }
     }
 
 

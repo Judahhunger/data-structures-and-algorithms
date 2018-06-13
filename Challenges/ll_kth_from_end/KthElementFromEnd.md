@@ -8,7 +8,7 @@
 ![Reverse Array whiteboard image](../../assets/KthElementInLL.jpg)
 - [x] Do all your work in a public repository called ll_kth_from_end.
 - [x] Create a branch in your repository called ll_kth_from_end.
-- [x] On your branch, create a file called tree-intersection, with the proper file extension for your programming language
+- [x] On your branch, create a file called ll_kth_from_end, with the proper file extension for your programming language
 - [x] Include any language-specific configuration files required for this challenge to become an individual component, module, library, etc.
 - [x] -Write a method for a Linked List class which takes in a number, k as a parameter. Return the Node that is K from the end of the Linked List.
 - [x] Take a photo of your completed whiteboard, matching the example whiteboard layout.

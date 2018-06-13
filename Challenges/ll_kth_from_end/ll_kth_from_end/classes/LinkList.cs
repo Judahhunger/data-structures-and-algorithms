@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ll_kth_from_end.classes
 {
-    class LinkList
+    public class LinkList
     {
         public Node Head { get; set; }
 

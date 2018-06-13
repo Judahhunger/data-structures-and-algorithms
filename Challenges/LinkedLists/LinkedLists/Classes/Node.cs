@@ -6,6 +6,7 @@ namespace LinkedLists
 {
    public class Node
     {
+        public string ThisSays { get; set; }
 
         public int Value { get; set; }
 

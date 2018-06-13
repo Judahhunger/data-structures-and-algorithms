@@ -2,15 +2,16 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LinkedLists
+
+namespace ll_kth_from_end.classes
 {
-    public class LinkLists
+    class LinkList
     {
         public Node Head { get; set; }
 
         public Node Current { get; set; }
 
-        public LinkLists(Node node)
+        public LinkList(Node node)
         {
             Head = node;
             Current = node;
@@ -52,7 +53,7 @@ namespace LinkedLists
                 Current = Current.Next;
             }
 
-            
+
         }
 
         /// <summary>
@@ -63,12 +64,12 @@ namespace LinkedLists
         /// <param Node="newNode"></param>
         /// <param Node="existingNode"></param>
         public void AddAfter(Node newNode, Node existingNode)//tested
-        {  
+        {
             Current = Head;
             Current = Find(existingNode.Value);
-           
-                    newNode.Next = Current.Next;
-                    existingNode.Next = newNode;
+
+            newNode.Next = Current.Next;
+            existingNode.Next = newNode;
         }
 
         public void AddLast(Node newNode)//when current node next is null make that nodes next equal node to add.
@@ -82,12 +83,12 @@ namespace LinkedLists
             Current.Next = newNode;
         }
 
-       /// <summary>
-       /// Go through link list to find node with value that is input
-       /// if found return that node, if not return null
-       /// </summary>
-       /// <param number="value"></param>
-       /// <returns></returns>
+        /// <summary>
+        /// Go through link list to find node with value that is input
+        /// if found return that node, if not return null
+        /// </summary>
+        /// <param number="value"></param>
+        /// <returns></returns>
         public Node Find(int value)//tested to find, and to find null if does not exsist.
         {
             Current = Head;
@@ -102,18 +103,20 @@ namespace LinkedLists
             }
             return Current.Value == value ? Current : null;
         }
-        
+
         public void Print()
         {
             Current = Head;
 
             while (Current.Next != null)
             {
-                Console.Write($"{Current.Value}--->");
+                Console.Write($"{Current.Value}-{Current.ThisSays}-->");
                 Current = Current.Next;
             }
-            Console.Write($"{Current.Value}---> null");
+            Console.Write($"{Current.Value}-{Current.ThisSays}--> null");
         }
 
     }
+
+
 }

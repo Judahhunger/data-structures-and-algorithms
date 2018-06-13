@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\ll_kth_from_end\ll_kth_from_end\bin\Debug\netcoreapp2.1\ll_kth_from_end.deps.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\ll_kth_from_end\ll_kth_from_end\bin\Debug\netcoreapp2.1\ll_kth_from_end.runtimeconfig.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\ll_kth_from_end\ll_kth_from_end\bin\Debug\netcoreapp2.1\ll_kth_from_end.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\ll_kth_from_end\ll_kth_from_end\bin\Debug\netcoreapp2.1\ll_kth_from_end.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\ll_kth_from_end\ll_kth_from_end\bin\Debug\netcoreapp2.1\ll_kth_from_end.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\ll_kth_from_end\ll_kth_from_end\obj\Debug\netcoreapp2.1\ll_kth_from_end.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\ll_kth_from_end\ll_kth_from_end\obj\Debug\netcoreapp2.1\ll_kth_from_end.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\ll_kth_from_end\ll_kth_from_end\obj\Debug\netcoreapp2.1\ll_kth_from_end.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\ll_kth_from_end\ll_kth_from_end\obj\Debug\netcoreapp2.1\ll_kth_from_end.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\ll_kth_from_end\ll_kth_from_end\obj\Debug\netcoreapp2.1\ll_kth_from_end.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\ll_kth_from_end\ll_kth_from_end\obj\Debug\netcoreapp2.1\ll_kth_from_end.pdb

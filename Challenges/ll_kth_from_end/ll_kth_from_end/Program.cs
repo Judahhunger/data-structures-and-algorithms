@@ -1,21 +1,21 @@
 ﻿using System;
+using ll_kth_from_end.classes;
 
-namespace LinkedLists
+namespace ll_kth_from_end
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-
-            implementLinkListSandwitch();
+            ImplementLinkListSandwitch();
         }
-        
-        static void implementLinkListSandwitch()
+
+        static void ImplementLinkListSandwitch()
         {
             //Make nodes to put into linklist
             Node peanutButter = new Node(3);
-            peanutButter = "peanut butter";
+            peanutButter.ThisSays = "peanut butter";
 
             Node jelly = new Node(2);
             jelly.ThisSays = " jelly";
@@ -46,5 +46,6 @@ namespace LinkedLists
             Console.ReadLine();
         }
 
+        static void 
     }
 }

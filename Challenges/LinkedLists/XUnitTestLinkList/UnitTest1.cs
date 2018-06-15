@@ -115,23 +115,5 @@ namespace XUnitTestLinkList
             Assert.Equal(node2.Next, nodeToAddAfter);
         }
 
-        /*[Theory]
-        public void MultiAddAfterNode(Node )
-        {
-            //Arrange
-            LinkLists ll = new LinkLists(new Node(4));
-            Node node = new Node(8);
-            Node node2 = new Node(15);
-            Node node3 = new Node(19);
-            Node node4 = new Node(30);
-            //act
-            ll.Add(node);
-            ll.Add(node2);
-            ll.Add(node3);
-            ll.Add(node4);
-            Node value = 
-            //Assert
-            Assert.Equal(nodeInList.Next, nodeToAdd);
-        }*/
     }
 }

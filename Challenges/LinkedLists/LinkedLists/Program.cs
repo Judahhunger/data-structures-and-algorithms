@@ -8,41 +8,33 @@ namespace LinkedLists
         {
             Console.WriteLine("Hello World!");
 
-            implementLinkListSandwitch();
+            implementLinkList();
         }
         
-        static void implementLinkListSandwitch()
+        static void implementLinkList()
         {
             //Make nodes to put into linklist
-            Node peanutButter = new Node(3);
-            peanutButter = "peanut butter";
-
-            Node jelly = new Node(2);
-            jelly.ThisSays = " jelly";
-
-            Node topSliceOfBread = new Node(1);
-            topSliceOfBread.ThisSays = "It's ";
-
-            Node bottomSliceOfBread = new Node(4);
-            bottomSliceOfBread.ThisSays = " Time!!";
-
-            Node cutOffCrust = new Node(5);
-            cutOffCrust.ThisSays = "It's peanut butter jelly time!!";
+            Node node3 = new Node(3);
+            Node node2 = new Node(2);
+            Node node1 = new Node(1);
+            Node node4 = new Node(4);
+            Node node5 = new Node(5);
+            Node node = new Node(0);
 
             //Make instance of LinkList
-            LinkList myLinkList = new LinkList(bottomSliceOfBread);
-            //put bottom of bread first to start to make sandwitch
+            LinkLists myLinkList = new LinkLists(node3);
 
-            myLinkList.Add(topSliceOfBread);//add top of sandwitch
+            myLinkList.Add(node2);//add in front
+            myLinkList.Add(node);
 
-            myLinkList.AddAfter(peanutButter, topSliceOfBread);// add jelly after top of bread. 
+            myLinkList.AddAfter(node4, node3); //add after
 
-            myLinkList.AddBefore(jelly, bottomSliceOfBread);//add penut butter before bottom slice of bread
+            myLinkList.AddBefore(node1, node2); // add before
 
+            myLinkList.AddLast(node5); //add last
 
-            myLinkList.AddLast(cutOffCrust);//last cut off crust
+            myLinkList.Print();// print nodes
 
-            myLinkList.Print();
             Console.ReadLine();
         }
 

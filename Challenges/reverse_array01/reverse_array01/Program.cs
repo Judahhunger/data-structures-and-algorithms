@@ -12,7 +12,11 @@ namespace reverse_array01
 
         }
 
-
+        /// <summary>
+        /// Takes in an array of int's and returns a new array that is reverse of the array.
+        /// </summary>
+        /// <param name="int array you want to reverse"></param>
+        /// <returns>new int array that is reverse of array that was passed in.</returns>
         static int[] ReverseArray(int[] arrayToReverse)
         {
             int indexCounter = 0;

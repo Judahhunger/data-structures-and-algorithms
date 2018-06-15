@@ -9,6 +9,7 @@ namespace reverse_array01
             int[] testArray = new int[] { 3, 2, 1 };
 
             ReverseArray(testArray);
+            Console.ReadLine();
 
         }
 

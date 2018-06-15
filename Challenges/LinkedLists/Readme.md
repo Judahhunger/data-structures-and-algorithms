@@ -21,7 +21,7 @@
 
 - AddLast a node to end:
 - myLinkList.AddLast(node5) : output node0--node1--node2--node3--node4--node5-->null
-![Reverse Array whiteboard image](../../assets/LinkedList.jpg)
+![Reverse Array whiteboard image](../../assets/LinkedList.png)
 
 - [x] Do all your work in a public repository called Data-structures-and-algorithms
 - [x] Create a branch in your repository called LinkedList

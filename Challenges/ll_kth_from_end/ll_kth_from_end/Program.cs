@@ -8,20 +8,12 @@ namespace ll_kth_from_end
         static void Main(string[] args)
         {
             Console.WriteLine("app is running");
-            ImplementLinkListSandwitch().Print();
-            KthElementInLL(0);
-            KthElementInLL(1);
-            KthElementInLL(2);
-            KthElementInLL(3);
-            KthElementInLL(4);
-            Console.WriteLine("");
-            Console.WriteLine("Edge cases below");
-            KthElementInLL(5);
-            KthElementInLL(-2);
-            Console.ReadLine();
+            ImplementLinkListSandwitch();
+            Console.Read();
+          
         }
 
-        static LinkList ImplementLinkListSandwitch()
+        public static void ImplementLinkListSandwitch()
         {
             //Make nodes to put into linklist
             Node peanutButter = new Node(2);
@@ -54,15 +46,12 @@ namespace ll_kth_from_end
 
             myLinkList.AddLast(cutOffCrust);//last cut off crust
 
-            return myLinkList;
-        }//retruns LinkList in shape of sandwitch.
-
-        static void KthElementInLL(int value)
-        {
-           string FindKthElement = ImplementLinkListSandwitch().KthElement(value);
-
-            Console.WriteLine(FindKthElement);
+            Console.WriteLine(myLinkList.KthElement(3));
+            Console.WriteLine(myLinkList.KthElement(0));
+            Console.WriteLine(myLinkList.KthElement(7));
+            Console.WriteLine(myLinkList.KthElement(-1));
         }
-        
+
+       
     }
 }

@@ -138,7 +138,7 @@ namespace ll_kth_from_end.classes
                 Runner = Runner.Next;
             }
             counter++;//To Make sure if input number is one over range it'll output correctly.
-            return (k - counter < 0) ? $"{Current.ThisSays} node is {Current.Value}" : "Not enough nodes in List for input";
+            return (k - counter < 0) ? $"{Current.ThisSays} node is {Current.Value} and {k} from end" : "Not enough nodes in List for input";
         }
     }
 

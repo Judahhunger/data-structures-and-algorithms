@@ -8,9 +8,9 @@ namespace XUnitTestProject1
     public class UnitTest1
     {
         [Theory]
-        [InlineData(0, "This node is 4")]//test find last node aka first postion kthElement
-        [InlineData(3, "This node is 19")]//test to find middle node
-        [InlineData(4, "This node is 30")]//test to find last node from end.
+        [InlineData(0, "This node is 4 and 0 from end")]//test find last node aka first postion kthElement
+        [InlineData(3, "This node is 19 and 3 from end")]//test to find middle node
+        [InlineData(4, "This node is 30 and 4 from end")]//test to find last node from end.
         [InlineData(5, "Not enough nodes in List for input")]//test for value is greater then number of nodes.
         [InlineData(-1, "Please enter a positive number")]//test to see if the number entered was positive.
         //maybe make one to catch sting or error input later.

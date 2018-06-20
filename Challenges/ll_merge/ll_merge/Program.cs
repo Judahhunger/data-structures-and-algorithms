@@ -26,6 +26,11 @@ namespace ll_merge
 
         }
 
+        /// <summary>
+        /// Takes in array of numbers and then makes a list out of them.
+        /// </summary>
+        /// <param name="arrayOfnums"></param>
+        /// <returns></returns>
        public static LinkList MakeMyLinkLists(int[] arrayOfnums)
         {
             LinkList myLists = new LinkList(new Node(arrayOfnums[0]));

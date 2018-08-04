@@ -4,7 +4,7 @@ using System.Text;
 
 namespace StackAndQueue.classes
 {
-    class Queue
+    public class Queue
     {
         /// <summary>
         /// get rear of queue

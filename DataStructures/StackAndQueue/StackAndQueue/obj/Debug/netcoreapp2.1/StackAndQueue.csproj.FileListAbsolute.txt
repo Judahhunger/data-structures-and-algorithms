@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.1\StackAndQueue.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.1\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.1\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.1\StackAndQueue.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.1\StackAndQueue.deps.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.1\StackAndQueue.runtimeconfig.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.1\StackAndQueue.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.1\StackAndQueue.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.1\StackAndQueue.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.1\StackAndQueue.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.1\StackAndQueue.pdb

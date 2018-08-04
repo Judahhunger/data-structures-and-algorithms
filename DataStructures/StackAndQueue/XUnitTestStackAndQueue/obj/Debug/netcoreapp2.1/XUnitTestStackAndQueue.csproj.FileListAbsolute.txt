@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\bin\Debug\netcoreapp2.1\XUnitTestStackAndQueue.deps.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\bin\Debug\netcoreapp2.1\XUnitTestStackAndQueue.runtimeconfig.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\bin\Debug\netcoreapp2.1\XUnitTestStackAndQueue.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\bin\Debug\netcoreapp2.1\XUnitTestStackAndQueue.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\bin\Debug\netcoreapp2.1\XUnitTestStackAndQueue.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\bin\Debug\netcoreapp2.1\StackAndQueue.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\bin\Debug\netcoreapp2.1\StackAndQueue.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\obj\Debug\netcoreapp2.1\XUnitTestStackAndQueue.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\obj\Debug\netcoreapp2.1\XUnitTestStackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\obj\Debug\netcoreapp2.1\XUnitTestStackAndQueue.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\obj\Debug\netcoreapp2.1\XUnitTestStackAndQueue.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\obj\Debug\netcoreapp2.1\XUnitTestStackAndQueue.csproj.CopyComplete
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\obj\Debug\netcoreapp2.1\XUnitTestStackAndQueue.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\DataStructures\StackAndQueue\XUnitTestStackAndQueue\obj\Debug\netcoreapp2.1\XUnitTestStackAndQueue.pdb

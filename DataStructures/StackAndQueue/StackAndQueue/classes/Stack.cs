@@ -5,7 +5,7 @@ using System.Text;
 
 namespace StackAndQueue.classes
 {
-    class Stack
+    public class Stack
     {
       
         /// <summary>

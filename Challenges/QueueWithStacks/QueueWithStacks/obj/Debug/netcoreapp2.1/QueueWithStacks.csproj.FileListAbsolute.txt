@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\QueueWithStacks\QueueWithStacks\bin\Debug\netcoreapp2.1\QueueWithStacks.deps.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\QueueWithStacks\QueueWithStacks\bin\Debug\netcoreapp2.1\QueueWithStacks.runtimeconfig.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\QueueWithStacks\QueueWithStacks\bin\Debug\netcoreapp2.1\QueueWithStacks.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\QueueWithStacks\QueueWithStacks\bin\Debug\netcoreapp2.1\QueueWithStacks.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\QueueWithStacks\QueueWithStacks\bin\Debug\netcoreapp2.1\QueueWithStacks.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\QueueWithStacks\QueueWithStacks\bin\Debug\netcoreapp2.1\StackAndQueue.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\QueueWithStacks\QueueWithStacks\bin\Debug\netcoreapp2.1\StackAndQueue.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\QueueWithStacks\QueueWithStacks\obj\Debug\netcoreapp2.1\QueueWithStacks.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\QueueWithStacks\QueueWithStacks\obj\Debug\netcoreapp2.1\QueueWithStacks.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\QueueWithStacks\QueueWithStacks\obj\Debug\netcoreapp2.1\QueueWithStacks.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\QueueWithStacks\QueueWithStacks\obj\Debug\netcoreapp2.1\QueueWithStacks.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\QueueWithStacks\QueueWithStacks\obj\Debug\netcoreapp2.1\QueueWithStacks.csproj.CopyComplete
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\QueueWithStacks\QueueWithStacks\obj\Debug\netcoreapp2.1\QueueWithStacks.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\QueueWithStacks\QueueWithStacks\obj\Debug\netcoreapp2.1\QueueWithStacks.pdb

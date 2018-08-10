@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidation\bin\Debug\netcoreapp2.1\MultiBracketValidation.deps.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidation\bin\Debug\netcoreapp2.1\MultiBracketValidation.runtimeconfig.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidation\bin\Debug\netcoreapp2.1\MultiBracketValidation.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidation\bin\Debug\netcoreapp2.1\MultiBracketValidation.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidation\bin\Debug\netcoreapp2.1\MultiBracketValidation.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidation\obj\Debug\netcoreapp2.1\MultiBracketValidation.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidation\obj\Debug\netcoreapp2.1\MultiBracketValidation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidation\obj\Debug\netcoreapp2.1\MultiBracketValidation.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidation\obj\Debug\netcoreapp2.1\MultiBracketValidation.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidation\obj\Debug\netcoreapp2.1\MultiBracketValidation.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidation\obj\Debug\netcoreapp2.1\MultiBracketValidation.pdb

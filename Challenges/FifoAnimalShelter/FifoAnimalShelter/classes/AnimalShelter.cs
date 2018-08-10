@@ -5,7 +5,7 @@ using System.Text;
 
 namespace FifoAnimalShelter
 {
-    class AnimalShelter
+    public class AnimalShelter
     {
         public Stack<Animal> InBoundStack { get; set; }
         public Stack<Animal> OutBoundStack { get; set; }

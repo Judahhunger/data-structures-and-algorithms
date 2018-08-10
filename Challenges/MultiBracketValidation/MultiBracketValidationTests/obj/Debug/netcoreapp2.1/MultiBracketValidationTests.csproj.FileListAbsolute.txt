@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\bin\Debug\netcoreapp2.1\MultiBracketValidationTests.deps.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\bin\Debug\netcoreapp2.1\MultiBracketValidationTests.runtimeconfig.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\bin\Debug\netcoreapp2.1\MultiBracketValidationTests.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\bin\Debug\netcoreapp2.1\MultiBracketValidationTests.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\bin\Debug\netcoreapp2.1\MultiBracketValidationTests.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\bin\Debug\netcoreapp2.1\MultiBracketValidation.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\bin\Debug\netcoreapp2.1\MultiBracketValidation.pdb
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\obj\Debug\netcoreapp2.1\MultiBracketValidationTests.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\obj\Debug\netcoreapp2.1\MultiBracketValidationTests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\obj\Debug\netcoreapp2.1\MultiBracketValidationTests.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\obj\Debug\netcoreapp2.1\MultiBracketValidationTests.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\obj\Debug\netcoreapp2.1\MultiBracketValidationTests.csproj.CopyComplete
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\obj\Debug\netcoreapp2.1\MultiBracketValidationTests.dll
+C:\Users\Admin\Desktop\Codefellows\401\data-structures-and-algorithms\Challenges\MultiBracketValidation\MultiBracketValidationTests\obj\Debug\netcoreapp2.1\MultiBracketValidationTests.pdb
